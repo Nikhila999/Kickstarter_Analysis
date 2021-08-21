@@ -12,7 +12,8 @@ The purpose of the analyses is to help Louise make an informed decision on the b
 ### Analysis of Outcomes Based on Launch Date
 To analyze the number of successful, failed and canceled campaigns by months, create a pivot table and a line chart from Kickstarter workbook. Filter the Parent category to *theater* and remove *live* outcomes.
 Please look at the image below, the blue line represents the number of successful campaigns, orange line represents the failed campaigns and grey line represent canceled campaigns.
-![Outcomes Based on Launch Date](/resources/Theatre_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](/resources/Theatre_Outcomes_vs_Launch.png|width = 100)
+
 From the image we can say that,
 * May is favorable month to launch a theatre project (i.e. play) and December is an unfavorable month.
 * May, June, July, August and October have around the same number of failed campaigns.
