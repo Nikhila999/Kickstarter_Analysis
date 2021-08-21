@@ -12,7 +12,7 @@ The purpose of the analyses is to help Louise make an informed decision on the b
 ### Analysis of Outcomes Based on Launch Date
 To analyze the number of successful, failed and canceled campaigns by months, create a pivot table and a line chart from Kickstarter workbook. Filter the Parent category to *theater* and remove *live* outcomes.
 Please look at the image below, the blue line represents the number of successful campaigns, orange line represents the failed campaigns and grey line represent canceled campaigns.
-![Outcomes Based on Launch Date](/resources/Theatre_Outcomes_vs_Launch.png|width = 100)
+<img src = "https://github.com/Nikhila999/Kickstarter_Analysis/blob/main/resources/Theatre_Outcomes_vs_Launch.png" width="500">
 
 From the image we can say that,
 * May is favorable month to launch a theatre project (i.e. play) and December is an unfavorable month.
@@ -22,7 +22,8 @@ From the image we can say that,
 ### Analysis of Outcomes Based on Goals
 To analyze the outcomes based on goals, first, define goal amount ranges (here, we are creating the intervals of $5000) and calculate number of successful, failed and canceled campaigns along with respective percentages. Create a line graph with percentage successful and percentage failed campaigns to proceed with the analysis.
 Please look at the image below, the blue line represents the percentage successful campaigns based on goal amount range and the orange line represents the percentage failed campaigns.
--- insert an image
+<img src = "https://github.com/Nikhila999/Kickstarter_Analysis/blob/main/resources/Outcomes_vs_Goals.png" width="500">
+
 From the image we can say that,
 * More successful campaigns have smaller goal amounts, when the goal amount is less than $5000 there is more than 72% chance of it being successful.
 * As the goal amount increases the chances of a campaign to fail also increases. 
