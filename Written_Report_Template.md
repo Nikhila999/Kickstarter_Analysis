@@ -41,9 +41,9 @@ From the image we can say that,
 
 - What can you conclude about the Outcomes based on Goals?
 
-    - Looking at the Outcomes based in Goals line graph, we can conclude that the
-    1. The highest number of successful campaigns are funded with goals less than $1000 and as the goal amount starts to increase the success of the campaign is reduced except for the goal amounts between 35k - 45k.
-    2. Also, there are no successful campagins for goal amount between 45k-50k and there are 294 failed campaigns.
+    - Looking at the Outcomes based in Goals line graph, we can conclude that,
+        1. The highest number of successful campaigns are funded with goals less than $1000 and as the goal amount starts to increase the success of the campaign is reduced except for the goal amounts between 35k - 45k.
+        2. Also, there are no successful campagins for goal amount between 45k-50k and there are 294 failed campaigns.
 
 - What are some limitations of this dataset?
     - Dataset we are working on could be incomplete, notice that the data is starting from 2009.
@@ -52,5 +52,5 @@ From the image we can say that,
 
 
 - What are some other possible tables and/or graphs that we could create?
-        - There are some outliers in the dataset, using the box plots we could easily address the ouliers present in the dataset and make an informed decision.
-        - In Outcomes based on Goals line graph, looking just at the percentage successful and percentage failed may not give the complete analysis. Because, goal amount between 35k and 45k has 66.7% success rate and 33.3 % failure, however comparing the number of successful(6) and failed(3) campaigns to total number of successful(694) and failed campaigns(648) is very low. So, having a tabular report next to the line graph would be more informative.
+    - There are some outliers in the dataset, using the box plots we could easily address the ouliers present in the dataset and make an informed decision.
+    - In Outcomes based on Goals line graph, looking just at the percentage successful and percentage failed may not give the complete analysis. Because, goal amount between 35k and 45k has 66.7% success rate and 33.3 % failure, however comparing the number of successful(6) and failed(3) campaigns to total number of successful(694) and failed campaigns(648) is very low. So, having a tabular report next to the line graph would be more informative.
