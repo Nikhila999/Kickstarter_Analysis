@@ -25,13 +25,13 @@ Please look at the image below, the blue line represents the percentage successf
 <img src = "https://github.com/Nikhila999/Kickstarter_Analysis/blob/main/resources/Outcomes_vs_Goals.png" width="500">
 
 From the image we can say that,
-* More successful campaigns have smaller goal amounts, when the goal amount is less than $5000 there is more than 72% chance of it being successful.
-* As the goal amount increases the chances of a campaign to fail also increases. 
-* There is an anomoly for the goal amounts between 35k-45k, we need to do more analysis to know if these is an expection or a valid data points.
+* More successful campaigns have smaller goal amounts, when the goal amount is less than $5000 there are more than 72% chances of it being successful.
+* As the goal amount increases the chances of a campaign failing also increases. 
+* There are few anomalies for the goal amounts between 35k-45k, we need to do more analysis to know if these are valid data points or erroneous data.
 
 ### Challenges and Difficulties Encountered
 
-* When formatting a graph, it is best practice to use same colors for measures to keep it consistent. I have decided to use blue color for successful and orange for failed. However, the default color palate for 'Outcomes Based on Goals' graph is using green/blue colors. I couldn't figure out where to change the colors until i explored all the options on menu ribbon. 
+* When formatting graphs, it is best practice to use same colors for measures to keep it consistent. I have decided to use blue color for successful and orange for failed. However, the default color palate for 'Outcomes Based on Goals' graph is using green/blue colors. I couldn't figure out where to change the colors until i explored all the options on menu ribbon. 
 
 
 ## Results
@@ -45,13 +45,12 @@ From the image we can say that,
 
     - Looking at the Outcomes based in Goals line graph, we can conclude that,
         1. The highest number of successful campaigns are funded with goals less than $1000 and as the goal amount starts to increase the success of the campaign is reduced except for the goal amounts between 35k - 45k.
-        2. Also, there are no successful campagins for goal amount between 45k-50k and there are 294 failed campaigns.
+        2. Also, there are no successful campagins and 294 failed campaigns for goal amount between 45k-50k.
 
 - What are some limitations of this dataset?
     - Dataset we are working on could be incomplete, notice that the data is starting from 2009.
-    - There are a few outliers in the data, we do not know to account for outliers in data
+    - There are a few outliers in the data, we do not know to account for outliers in data.
     - We do not know the source of data. So, we do not know how to address and take measures to reduce bias in the crowdfunding data.
-
 
 - What are some other possible tables and/or graphs that we could create?
     - There are some outliers in the dataset, using the box plots we could easily address the ouliers present in the dataset and make an informed decision.
